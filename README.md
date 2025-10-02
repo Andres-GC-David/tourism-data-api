@@ -50,9 +50,9 @@ Follow these steps to set up and run the project locally.
 ### 2. Create and activate virtual environment
 
 python -m venv venv
-# Linux/Mac
+- Linux/Mac
 source venv/bin/activate
-# Windows
+- Windows
 venv\Scripts\activate
 
 ### 3. Install dependencies
