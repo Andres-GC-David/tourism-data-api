@@ -44,8 +44,8 @@ Follow these steps to set up and run the project locally.
 
 ### 1. Clone the repository
 
-git clone https://github.com/Andres-GC-David/tourism-data-api.git
-cd tourism-etl-api
+- git clone https://github.com/Andres-GC-David/tourism-data-api.git
+- cd tourism-etl-api
 
 ### 2. Create and activate virtual environment
 
