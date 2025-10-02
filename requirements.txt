@@ -5,3 +5,7 @@ sqlite3
 fastapi
 uvicorn
 numpy
+pytest
+httpx
+streamlit
+plotly
